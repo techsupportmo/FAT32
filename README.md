@@ -1,5 +1,5 @@
 # FAT32
-FAT32 Filesystem Project
+This is a program that implements a FAT32 Filesystem. The user can open and close a fat32.img file, as well as execute basic commands such as ls, cd, info etc...
 
 
 # open
