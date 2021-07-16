@@ -18,6 +18,10 @@ read
 Opens fat32.img file with error handling
 <br>
 
+<br>
+<br>
+<br>
+<br>
 
 ## close
 Closes fat32.img with error handling
