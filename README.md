@@ -15,7 +15,9 @@ read
 # Implemented Commands
 
 ## open `<image name>`
-Opens fat32.img file with error handling\
+Opens fat32.img file with error handling
+
+
 
 ## close
 Closes fat32.img with error handling
