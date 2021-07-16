@@ -16,15 +16,16 @@ read
 
 ## open `<image name>`
 Opens fat32.img file with error handling
-<br>
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## close
 Closes fat32.img with error handling
+
+<br>
+<br>
 
 ## info
 Print out values for:
@@ -33,6 +34,9 @@ BPB_SecPerClus
 BPB_RsvdSecCnt
 BPB_NumFATS
 BPB_FATSz32
+
+<br>
+<br>
 
 ## stat `<filename>`
 Print attributes and starting cluster number of the file or directory name. 
