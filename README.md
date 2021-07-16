@@ -16,7 +16,7 @@ read
 
 ## open `<image name>`
 Opens fat32.img file with error handling
-
+<br>
 
 
 ## close
