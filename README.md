@@ -1,5 +1,5 @@
 # FAT32
-This is a program that implements a FAT32 Filesystem. The user can open and close a fat32.img file, as well as execute basic commands such as ls, cd, info etc...
+This is a user space shell application that interprets a FAT32 file system image and allows users to open files, change directories, and display information about the filesystem . The user can open and close a FAT32 .img file, as well as execute basic commands such as ls, cd, info etc...
 
 
 # open
